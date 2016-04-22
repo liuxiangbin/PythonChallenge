@@ -3,7 +3,7 @@
 
 '''
     Python challenge: level 14
-        phone that evil.
+        walk around.
         
     @author: DTree
     @license: GNU General Public License 2.0 or later
