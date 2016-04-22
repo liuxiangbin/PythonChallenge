@@ -10,4 +10,12 @@
 * Level 5 : [https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_5.py](https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_5.py)
 * Level 6 : [https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_6.py](https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_6.py)
 * Level 7 : [https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_7.py](https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_7.py)
+* Level 8 : [https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_8.py](https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_8.py)
+* Level 9 : [https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_9.py](https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_9.py)
+* Level 10 : [https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_10.py](https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_10.py)
+* Level 11 : [https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_11.py](https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_11.py)
+* Level 12 : [https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_12.py](https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_12.py)
+* Level 13 : [https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_13.py](https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_13.py)
+* Level 14 : [https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_14.py](https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_14.py)
+* Level 15 : [https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_15.py](https://github.com/liuxiangbin/PythonChallenge/blob/master/src/level_15.py)
 
