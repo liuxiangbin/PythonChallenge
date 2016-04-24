@@ -23,3 +23,6 @@ if __name__ == "__main__":
     
     # *Bert* comes from 'http://www.pythonchallenge.com/pc/return/evil4.jpg'
     print(pb.phone('Bert'))
+    
+    #For level 17
+    print(pb.phone('Leopold'))
